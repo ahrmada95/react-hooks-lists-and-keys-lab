@@ -1,11 +1,12 @@
 const user = {
-  name: "Liza",
-  city: "New York",
-  bio: "I made this!",
+  name: "Ahnaf",
+  city: "New York City",
+  bio: "A computer science major currently trying to find work. I write on the side. I live in NYC. I love an engrossing story.",
   color: "firebrick",
   links: {
-    github: "https://github.com/liza",
-    linkedin: "https://www.linkedin.com/in/liza/",
+    image: "https://i1.sndcdn.com/artworks-1aJYn0osEykyxcGz-kfjz3g-t500x500.jpg",
+    github: "https://github.com/ahrmada95",
+    linkedin: "https://www.linkedin.com/in/ahnaf-ahmad-587b97245",
   },
   projects: [
     {
